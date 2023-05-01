@@ -1,0 +1,9 @@
+.post-img{
+    height: 610px;
+    overflow: hidden;
+    border-radius: 40px;
+}
+
+.post-img img{
+    width: 100%;
+}
